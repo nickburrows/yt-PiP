@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  opacity: 1;
+  height: 622px;
+}
+
+main {
+  width: 960;
+  margin: 0 auto;
+  height: 622px;
+}
